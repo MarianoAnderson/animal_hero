@@ -1,7 +1,7 @@
 ## Projeto Animal Hero - README
 ## Descrição
 <p>
-  É um sistema Web que ajudará as Ongs e hospitais veterinários espalhadas por todo o Brasil a gerenciar a quantidade de animais presentes em suas localidades
+  É um sistema Web que ajudará as Ongs e hospitais veterinários espalhadas por todo o Brasil a gerenciar a quantidade de animais presentes em suas localidades.
 </p>
 
 ## Stacks
